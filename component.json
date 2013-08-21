@@ -1,0 +1,9 @@
+{
+  "name": "boot-accordion",
+  "description": "Initialize the accordion component",
+  "dependencies": {
+    "nib-components/accordion": "0.0.7",
+    "nib-components/element-collection": "0.0.3",
+    "nib-components/analytics": "0.0.2"
+  }
+}
