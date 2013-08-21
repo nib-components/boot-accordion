@@ -5,5 +5,12 @@
     "nib-components/accordion": "0.0.7",
     "nib-components/element-collection": "0.0.3",
     "nib-components/analytics": "0.0.2"
-  }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [],
+  "files": [],
+  "images": [],
+  "templates": []
 }
